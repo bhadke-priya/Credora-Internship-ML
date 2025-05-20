@@ -37,3 +37,10 @@ This project implements a Linear Regression model to predict house prices in Ind
  
  •	Seaborn
 
+ **Output**
+ 
+•MAE: 168152.21195773853
+
+•RMSE: 256056.6640206075
+
+•r2_score:0.5344446000008027
