@@ -12,7 +12,9 @@ This project implements a Linear Regression model to predict house prices in Ind
 **Evaluation Metrics**
 
  •	MAE (Mean Absolute Error)
+ 
  •	RMSE (Root Mean Squared Error)
+ 
  •	R² Score
 
 **Visualization**
