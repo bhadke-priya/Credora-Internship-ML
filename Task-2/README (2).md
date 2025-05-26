@@ -3,7 +3,9 @@
 This project demonstrates how to apply **unsupervised machine learning** techniques to group customers based on their **shopping behavior**. Using the **K-Means clustering algorithm**, we identify distinct segments within a customer base to help businesses better understand and target their customers.
    
   **Problem Statement**
-    Retail and e-commerce businesses often deal with diverse customer bases. Understanding different customer types helps tailor marketing strategies, improve customer satisfaction, and increase revenue.
+  
+    Retail and e-commerce businesses often deal with diverse customer bases. Understanding different customer types helps tailor marketing strategies, improve 
+  customer satisfaction, and increase revenue.
 
 **Step Followed**
 1. Problem Understanding
